@@ -1,6 +1,6 @@
 {
-    "name": "Weatherglass",
-    "short_name": "Weatherglass",
+    "name": "Sunspell",
+    "short_name": "Sunspell",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#2E6F8E",
